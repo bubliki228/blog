@@ -15,8 +15,8 @@ author: pio
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
@@ -156,13 +156,13 @@ footer-hover-col: "#0085A1"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: "pioblog-1"
+disqus: "pioblog-1"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-commentbox: "5651192784879616-proj" # Project ID, e.g. "5694267682979840-proj"
+#commentbox: "5651192784879616-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
@@ -207,7 +207,7 @@ commentbox: "5651192784879616-proj" # Project ID, e.g. "5694267682979840-proj"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%-d %B, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
