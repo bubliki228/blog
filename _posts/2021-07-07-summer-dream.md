@@ -4,7 +4,7 @@ title: 'Как, кажется, сбылась моя мечта о летней
 tags: [история]
 cover-img: summer_dream1.jpg
 share-img: summer_dream2.jpg
-thumbnail-img: summer_dream1.jpg
+thumbnail-img: /summer_dream1.jpg
 ---
 
 > Дисклеймер: данная поездка описана слишком подробно из-за того, что это был первый и довольно долгожданный опыт. Искал летние школы весь май, поэтому был настолько размашист в тексте с фидбеком про эту поездку.
@@ -73,7 +73,7 @@ thumbnail-img: summer_dream1.jpg
 
 Фоточки из Академии Цифровых Технологий:
 
-![1](summer_dream1.jpg)
+![1](/summer_dream1.jpg)
 
 ![2](summer_dream2.jpg)
 
