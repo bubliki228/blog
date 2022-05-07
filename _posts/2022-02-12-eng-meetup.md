@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Открыл для себя регулярные физтеховские english-meetup-ы'
+title: 'Открыл для себя регулярные физтеховские english meetup-ы '
 tags: [жизнипост]
 thumbnail-img: https://telegra.ph/file/098dd74b929aae7b6f52d.png
 ---
