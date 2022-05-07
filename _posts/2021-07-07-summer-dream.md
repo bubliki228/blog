@@ -2,9 +2,7 @@
 layout: post
 title: 'Как, кажется, сбылась моя мечта о летней школе'
 tags: [история]
-cover-img: summer_dream1.jpg
-share-img: summer_dream2.jpg
-thumbnail-img: /_posts/summer_dream1.jpg
+thumbnail-img: /assets/img/summer_dream1.jpg
 ---
 
 > Дисклеймер: данная поездка описана слишком подробно из-за того, что это был первый и довольно долгожданный опыт. Искал летние школы весь май, поэтому был настолько размашист в тексте с фидбеком про эту поездку.
@@ -73,7 +71,7 @@ thumbnail-img: /_posts/summer_dream1.jpg
 
 Фоточки из Академии Цифровых Технологий:
 
-![1](/_posts/summer_dream1.jpg)
+![1](/assets/img/summer_dream1.jpg)
 
 ![2](/_posts/summer_dream2.jpg)
 
