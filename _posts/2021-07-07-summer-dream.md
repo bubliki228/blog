@@ -73,7 +73,7 @@ thumbnail-img: /_posts/summer_dream1.jpg
 
 Фоточки из Академии Цифровых Технологий:
 
-![1](/_posts/summer_dream1.jpgg)
+![1](/_posts/summer_dream1.jpg)
 
 ![2](/_posts/summer_dream2.jpg)
 
