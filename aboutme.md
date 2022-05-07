@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a meeting with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Сейчас я выпускаюсь из маткласса в биохим школе в Москве и поступаю на computer science (ПМИ\ПИ) bachelor 2022.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### Несколько фактов
+- Саморазвиваюсь и познаю мир, математику, культуру etc...
+- Программирую для автоматизации рутинных задач в жизни и для реализации идей, возникших в голове, в реальные проекты
+- Стремлюсь к соблюдению принципа жизни "4well": eat well, sleep well, exercise well, communicate well
+- Люблю велопрогулки летом в пять утра (почему это здорово - см. [fiveamwalk.ml](http://fiveamwalk.ml))
+- Создаю вокруг себя окружение вдохновляющих целеустремленных людей, интересы и цели которых созвучны с моими
+- Печатаю со скоростью более 400 символов в минуту
+- Люблю пить грудной сбор №4 и шиповник

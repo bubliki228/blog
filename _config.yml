@@ -15,6 +15,7 @@ author: pio.studying@gmail.com
 
 navbar-links:
   About Me: "aboutme"
+  My projects: "myprojects"
   #Resources:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
