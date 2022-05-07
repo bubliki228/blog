@@ -73,8 +73,8 @@ thumbnail-img: /assets/img/summer_dream1.jpg
 
 ![1](/assets/img/summer_dream1.jpg)
 
-![2](/_posts/summer_dream2.jpg)
+![2](/assets/img/summer_dream2.jpg)
 
-![3](/_posts/summer_dream3.jpg)
+![3](/assets/img/summer_dream3.jpg)
 
-![4](/_posts/summer_dream4.jpg)
+![4](/assets/img/summer_dream4.jpg)
