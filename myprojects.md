@@ -27,7 +27,7 @@ Link: [t.me/edulix](https://t.me/edulix), web page: [edulix.ga](http://edulix.ga
 
 Landing web page about speed cycle sport at 5 AM each summertime.
 
-Link: http://fiveamwalk.ml
+Link: [http://fiveamwalk.ml](http://fiveamwalk.ml)
 
 ------
 
