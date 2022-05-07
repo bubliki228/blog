@@ -23,7 +23,33 @@ Link: [t.me/edulix](https://t.me/edulix), web page: [edulix.ga](http://edulix.ga
 
 
 
+#### [fiveamwalk.ml](http://fiveamwalk.ml)
+
+Landing web page about speed cycle sport at 5 AM each summertime.
+
+Link: http://fiveamwalk.ml
+
+------
+
+
+
 #### Linkparser
 Linkparser for parsing links to the conferentions of school classes from our school diary website (was actual for remote school education).
 
-[GitHub](https://github.com/vedulix/linksparser)
+Link: [GitHub](https://github.com/vedulix/linksparser)
+
+------
+
+
+
+### My computer science knowledge:
+
+- Basic computers skills (git, html)
+
+- Confident with Linux, Windows OS
+
+- Programming languages skills (basic C, Python)
+
+- Databases (Basic MySQL)
+
+- Parsing and scraping web pages (Selenium)
