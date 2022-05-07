@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Как, кажется, сбылась моя мечта о летней школе'
-tags: [история]
+tags: [жизнипост]
 thumbnail-img: /assets/img/summer_dream1.jpg
 ---
 
