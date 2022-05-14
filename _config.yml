@@ -14,8 +14,8 @@ author: pio.studying@gmail.com
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "whoami"
-  My projects: "myprojects"
+  About Me: "me"
+  My projects: "projects"
   #Resources:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
