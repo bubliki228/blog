@@ -44,6 +44,7 @@ Link: [GitHub](https://github.com/vedulix/linksparser)
 
 ### My computer science knowledge:
 
+
 - Basic computers skills (git)
 - Confident with Linux, Windows OS
 - Programming languages skills (basic C, Python)
