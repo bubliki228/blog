@@ -44,12 +44,9 @@ Link: [GitHub](https://github.com/vedulix/linksparser)
 
 ### My computer science knowledge:
 
-- Basic computers skills (git, html)
-
+- Basic computers skills (git)
 - Confident with Linux, Windows OS
-
 - Programming languages skills (basic C, Python)
-
+- Basic web development (HTML\CSS)
 - Databases (Basic MySQL)
-
-- Parsing and scraping web pages (Selenium)
+- Parsing and scraping web pages
