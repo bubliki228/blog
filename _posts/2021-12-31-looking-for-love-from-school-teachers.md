@@ -58,7 +58,7 @@ tags: [история]
 Выяснится, что учительница то была нужна не для любви:
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" width="640" height="360">
     <source src="/assets/media/not_for_love.mp4" type="video/mp4">
   </video>
 </figure>
