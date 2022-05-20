@@ -46,7 +46,7 @@ Link: [GitHub](https://github.com/vedulix/linksparser)
 
 
 - Basic computers skills (git)
-- Confident with Linux, Windows OS
+- Confident with Linux shell, Windows OS
 - Programming languages skills (basic C, Python)
 - Basic web development (HTML\CSS)
 - Databases (Basic MySQL)
