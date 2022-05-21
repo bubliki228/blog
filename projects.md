@@ -17,7 +17,7 @@ Link: [t.me/projectgratefulbot](https://t.me/projectgratefulbot), [GitHub](https
 #### Telegram channel “Edulix - Delayed content”
 Telegram channel “Edulix - Delayed content” with self-development content like pop-science lectures, interviews. Telegram bot as admin in this channel downloads video from YouTube that I give its, automatically detects human speech in video, cuts silence parts and pauses in a person's speech (parts without voice activity), and then sends to Telegram channel video and audioline with the hashtag of author’s name. This is my content consuming tool.
 
-Link: [t.me/edulix](https://t.me/edulix), web page: [edulix.ga](http://edulix.ga), [presentation](https://docs.google.com/presentation/d/1Hliyr5gM4Saimw7DKjqFW4UK9vSlByMurKBZtSt-wSg/edit?usp=sharing){target="_blank"}
+Link: [t.me/edulix](https://t.me/edulix), web page: [edulix.ga](http://edulix.ga), [presentation](https://docs.google.com/presentation/d/1Hliyr5gM4Saimw7DKjqFW4UK9vSlByMurKBZtSt-wSg/edit?usp=sharing)
 
 ------
 
