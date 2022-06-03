@@ -14,7 +14,7 @@ author: pio.studying@gmail.com
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Navigation: "tags"
+ # Navigation: "tags"
   About Me: "me"
   My projects: "projects"
   #Resources:
