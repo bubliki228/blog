@@ -149,7 +149,7 @@ tags: [research]
 
 
 
-#### Основные ошибки руководителя
+#### Основные ошибки руководителя (наиболее частые и интересные)
 
 1. **Делать всё самому**
 
@@ -190,10 +190,6 @@ tags: [research]
 10. **Чувство вины**
 
     Так как лидер берёт на себя ответственность за принятые решения, за успехи и неудачи, он может подсознательно винить себя за неправильные решения. Это разрушительные мысли, которые влекут за собой неуверенность в правильности принимаемых решений. Эта неуверенность распространится и на подчинённых, и они перестанут ощущать надёжность своего лидера.
-
-Тут наиболее повторяющиеся и интересные ошибки из следующих источников:
-
-[тык](https://platrum.ru/blog/5-oshibok-rukovoditelja-v-upravlenii-personalom/), [тык](https://school.bigbird.ru/articles/top-7-oshibok-rukovoditelya-kotorye-meshayut-dostich-uspeha/), [тык](https://www.insales.ru/blogs/university/10-neprostitelnyh-oshibok-rukovoditelya), [тык](https://4brain.ru/blog/10-ошибок-лидера-по-зенгеру-и-фолкману/), [тык](http://samorealizacia.com/liderstvo/shest-oshibok-liderov.html).
 
 ------
 
