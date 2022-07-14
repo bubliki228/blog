@@ -129,7 +129,7 @@ tags: [research]
 
 #### Персоналии / роли в команде
 
-Ролей в команде огромное множество, основные перечислены ниже на картинках. Чтобы определить, кто есть кто, достаточно пройти тест (где-то 40 минут) от Saville Assessment — опросник Professional Styles.
+Ролей в команде огромное множество, основные перечислены ниже на картинках. Чтобы определить, кто есть кто, достаточно пройти тест (где-то 40 минут) от [Saville Assessment](https://www.savilleassessment.com/) — опросник Professional Styles. Это какая-то крутая компания, тесты можно получить только написав им лично на [**info@savilleassessment.com**](mailto:info@savilleassessment.com?subject=Members Area Login), но можно и попробовать пройти типичные вопросы, например, [здесь](https://testonjob.ru/app/test/verbal-free/?id=5).
 
 ![img](https://telegra.ph/file/c28420e04cbb68b2e79b6.png)
 
@@ -144,10 +144,6 @@ tags: [research]
 Подробнее [тут](https://hurma.work/rf/blog/kak-povysit-effektivnost-top-komandy-s-uchyotom-raspredeleniya-rolej-2/).
 
 ------
-
-![img](https://telegra.ph/file/d021463b786e15a3c873a.png)
-
-
 
 #### Основные ошибки руководителя (наиболее частые и интересные)
 
@@ -225,7 +221,9 @@ tags: [research]
 
 #### Примеры успешных команд
 
-Офигенный сайт с великими командами русского бизнеса, в т.ч. командами Давида Яна и С.П. Королёва: [http://www.businessology.ru/velikie-komandy](http://www.businessology.ru/velikie-komandy/).
+
+
+Сайт с великими командами русского бизнеса, в т.ч. командами Давида Яна и С.П. Королёва: [http://www.businessology.ru/velikie-komandy](http://www.businessology.ru/velikie-komandy/).
 
 ------
 
