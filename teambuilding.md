@@ -1,14 +1,13 @@
 ---
 layout: post
-title: 'Тимбилдинг'
-subtitle: 'рисёрч'
-cover-img: https://telegra.ph/file/9a8635dd54d3b16fe65c9.png
+title: 'Teambuilding'
+subtitle: 'research'
 tags: [research]
 ---
 
 ------
 
-**План поста:**
+**План:**
 
 1. что такое команда
 
