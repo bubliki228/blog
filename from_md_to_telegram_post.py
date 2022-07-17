@@ -3,7 +3,7 @@ import telebot
 import markdown
 bot = telebot.TeleBot("1451808041:AAEbQKwW70Kd-oItc7CdYADNnZ2tOhp3N5k", skip_pending=True)
 
-stroka='_posts/school-ending.md'
+stroka='_posts/2022-07-17-consuming-self-development-content-2.md'
 
 
 f = open(stroka, 'r', encoding="utf8")
@@ -11,7 +11,6 @@ text = f.read()
 text = text[text.find('---', 2)+5:]
 html = markdown.markdown(text).replace('<p>', '').replace('</p>', '\n')
 print(type(html), html)
-
 
 
 
