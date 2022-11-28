@@ -3,7 +3,7 @@ import telebot
 import markdown
 bot = telebot.TeleBot("1451808041:AAEbQKwW70Kd-oItc7CdYADNnZ2tOhp3N5k", skip_pending=True)
 
-stroka='_posts/2022-07-17-consuming-self-development-content-2.md'
+stroka='_posts/22-11-10-random-coffee.md'
 
 
 f = open(stroka, 'r', encoding="utf8")
